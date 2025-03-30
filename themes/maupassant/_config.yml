@@ -62,7 +62,7 @@ google_search: true ## 使用 Google 搜索，true/false。
 baidu_search: false ## 使用百度搜索，true/false。
 swiftype: ## 你的 swiftype_key，例如 m7b11ZrsT8Me7gzApciT
 self_search: false ## 使用基于 jQuery 的本地搜索引擎，true/false。
-google_analytics: ## 你的 Google Analytics 跟踪 ID，例如 UA-42425684-2
+google_analytics: G-45L2JKXY85 ## 你的 Google Analytics 跟踪 ID，例如 UA-42425684-2
 baidu_analytics: ## 你的百度 Analytics 跟踪 ID，例如 8006843039519956000
 microsoft_clarity: ## 你的 Microsoft Clarity 跟踪 ID，例如 zg2ctuea9j
 fancybox: true ## 如果你想使用 fancybox，请将值设置为 true。
