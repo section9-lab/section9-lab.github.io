@@ -1,6 +1,8 @@
 ---
-title: Prompt
+title: 大语言模型的Prompt优化
 date: 2025-03-22
+description: 了解大语言模型的Prompt优化技巧，掌握文本生成的关键方法，提升工作效率
+keywords: 大语言模型、Prompt优化、Transformer模型、文本生成
 category:
   - Language
 tag:
