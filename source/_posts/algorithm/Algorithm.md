@@ -2,7 +2,7 @@
 title: Algorithm
 date: 2023-11-22
 category:
-  - DataStructures
+  - 算法
 tag:
   - java
 sticky: false

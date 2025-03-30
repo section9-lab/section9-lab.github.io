@@ -98,7 +98,7 @@ copycode: true ## 如果你想启用一键复制代码块，请将值设置为 t
 dark: false ## 如果你想在深色模式和浅色模式之间切换，请将值设置为 true。
 totop: false ## 如果你想使用返回顶部的火箭按钮，请将值设置为 true。
 external_css: false ## 如果你想加载外部 CSS 文件，请将值设置为 true，并在 source/css 文件夹中创建名为 "external.css" 的文件。
-post_content_length: 380 ## 设置在主页显示的文章摘要的长度（如果没有描述的话）。
+post_content_length: 300 ## 设置在主页显示的文章摘要的长度（如果没有描述的话）。
 icp: ## 仅限中国大陆，在底部显示 ICP 信息。
 
 menu:
