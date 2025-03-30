@@ -1,0 +1,4 @@
+#footer= 'Copyright © ' + date(Date.now(), 'YYYY') + ' '
+  a(href=url_for('.'), rel='nofollow')= config.title + '.'
+  if theme.icp
+    a(rel='nofollow', target='_blank', href='https://beian.miit.gov.cn/')=  theme.icp
